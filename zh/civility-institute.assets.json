@@ -15377,5 +15377,22 @@
             "spotifyLink": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0?si=m4lJf1l2RhWNSxAGd_hEuQ",
             "spotifyPreviewEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uBXftNaleLMKQXsAPX1p4?utm_source=generator\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
         }
-    ]
+    ],
+    "UILocale": {
+        "CivilityInstitute": "文明研究所",
+        "LessonsForKids": "给孩子们的教训！",
+        "StudyGuides": "学习指南",
+        "DocumentLessons": "记录课程",
+        "VideoLessons": "视频课程",
+        "Poems": "诗歌",
+        "SongRecommendations": "歌曲推荐",
+        "Search": "搜索",
+        "NoLessonMatchedYourSearch": "没有符合您搜索的课程",
+        "NoTrackMatchedYourSearch": "没有符合您搜索的曲目",
+        "RefreshPageToViewDocument": "如果文档未加载，请刷新页面",
+        "Download": "下载",
+        "Install": "安装",
+        "IAmStudying": "我正在学习",
+        "CopiedToClipboard": "已复制到剪贴板"
+    }
 }

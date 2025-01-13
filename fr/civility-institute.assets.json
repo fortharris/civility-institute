@@ -15377,5 +15377,22 @@
             "spotifyLink": "https://open.spotify.com/artist/2A1JIrO6mmH6G7Wkdx8LB0?si=m4lJf1l2RhWNSxAGd_hEuQ",
             "spotifyPreviewEmbed": "<iframe style=\"border-radius:12px\" src=\"https://open.spotify.com/embed/track/4uBXftNaleLMKQXsAPX1p4?utm_source=generator\" width=\"100%\" height=\"152\" frameBorder=\"0\" allowfullscreen=\"\" allow=\"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture\" loading=\"lazy\"></iframe>"
         }
-    ]
+    ],
+    "UILocale": {
+        "CivilityInstitute": "Institut de Civilité",
+        "LessonsForKids": "Des cours pour les enfants !",
+        "StudyGuides": "Guides d'étude",
+        "DocumentLessons": "Leçons sur les documents",
+        "VideoLessons": "Cours vidéo",
+        "Poems": "Poèmes",
+        "SongRecommendations": "Recommandations de chansons",
+        "Search": "Recherche",
+        "NoLessonMatchedYourSearch": "Aucune leçon ne correspond à votre recherche",
+        "NoTrackMatchedYourSearch": "Aucune piste ne correspond à votre recherche",
+        "RefreshPageToViewDocument": "Actualiser la page si le document ne se charge pas",
+        "Download": "Télécharger",
+        "Install": "Installer",
+        "IAmStudying": "J'étudie",
+        "CopiedToClipboard": "Copié dans le presse-papiers"
+    }
 }
